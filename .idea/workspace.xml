@@ -2,24 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5882ce2a-e673-4049-8b23-375c73c7b5b2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/client/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/streams/StreamCreate.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/streams/StreamDelete.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/streams/StreamEdit.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/streams/StreamList.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/streams/StreamShow.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/header.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client" beforeDir="false" afterPath="$PROJECT_DIR$/client" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/App.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/client/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/serviceWorker.js" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -74,7 +61,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1568631543233</updated>
-      <workItem from="1568631544580" duration="3612000" />
+      <workItem from="1568631544580" duration="5031000" />
     </task>
     <servers />
   </component>
