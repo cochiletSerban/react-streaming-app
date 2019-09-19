@@ -1,0 +1,14 @@
+{
+  "streams": [
+    {
+      "title": "asmr",
+      "description": "touch based",
+      "id": 1
+    },
+    {
+      "title": "boring stream",
+      "description": "the most boring stream",
+      "id": 2
+    }
+  ]
+}
